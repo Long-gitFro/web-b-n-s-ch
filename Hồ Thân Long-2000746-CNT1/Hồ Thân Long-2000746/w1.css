@@ -1,0 +1,236 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  display: flex;
+  background-color: rgb(250, 251, 251);
+  width: 100%;
+  height: 100px;
+}
+.logo {
+  width: 400px;
+  justify-content: center;
+  margin-left: 580px;
+  position: fixed;
+}
+.navbar {
+  height: 35px;
+  background-color: rgb(255, 217, 0);
+}
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  position: relative;
+}
+.bnt1 {
+  margin-top: 6px;
+  font-size: large;
+  display: flex;
+}
+.box1 {
+  display: flex;
+  justify-content: center;
+}
+hr {
+  height: 4px;
+  background-color: black;
+}
+.container1 {
+  display: flex;
+}
+
+.goods-item {
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px;
+  margin-left: 350px;
+}
+.container2{
+  display: flex;
+}
+.shop{
+  width: 45%;
+  margin-left: 300px;
+  
+  margin-top: 165px;
+
+}
+.tên{
+  font-size: 25px;
+}
+.chat{
+  margin-left: px;
+  width: 80px;
+  height: 30px;
+
+}
+.xem{
+  width: 80px;
+  height: 30px;
+  margin-left: 129px;
+  
+
+}
+.infomation1{
+  width: 55%;
+}
+.detail{
+  font-size: 20px;
+}
+p1{
+  font-size: large;
+}
+
+
+
+
+.fa-solid {
+  font-size: 100px;
+}
+.pay {
+  text-align: right;
+}
+.pay1 {
+  font-size: xx-large;
+  text-align: left;
+  margin-left: 150px;
+  font-style: bold;
+}
+.b1 {
+  margin-left: 1400px;
+  position: fixed;
+}
+.size {
+  text-align: left;
+  margin-right: 243px;
+}
+
+.pay2 {
+  text-align: left;
+  margin-left: 155px;
+}
+.pay3 {
+  text-align: left;
+  margin-left: 155px;
+}
+.pay4 {
+  text-align: left;
+  margin-left: 155px;
+}
+.pay5 {
+  text-align: left;
+  margin-left: 155px;
+}
+.pay6 {
+  text-align: left;
+  margin-left: 155px;
+  font-size: larger;
+}
+.momo {
+  text-align: left;
+  margin-left: 160px;
+}
+.nganhang {
+  text-align: left;
+  margin-left: 160px;
+}
+.pay7 {
+  margin-left: 70px;
+}
+.pay8 {
+  margin-left: 55px;
+}
+.pay9 {
+  margin-right: 80px;
+  font-size: 18px;
+  border: 4px;
+}
+.pay11 {
+  font-size: x-large;
+  margin-right: 10px;
+}
+body {
+  background-color: rgb(254, 230, 230);
+}
+.t1 {
+  margin-left: 722px;
+}
+
+.h5 {
+  margin-left: 500px;
+}
+
+.logo1 {
+  margin-top: 45px;
+  display: flex;
+  justify-content: left;
+  width: 400px;
+}
+.container {
+  display: flex;
+  text-align: center;
+  padding-left: 9.5px;
+  justify-content: center;
+}
+.goods-item2:hover {
+  justify-content: center;
+  box-shadow: 2px 2px 2px;
+  margin: 6px;
+  width: 20%;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(250, 250, 211);
+}
+
+button {
+  background-color: rgb(252, 227, 208);
+  border-radius: 4px;
+}
+button:hover {
+  background-color: rgb(199, 231, 250);
+}
+.container1 {
+  display: flex;
+}
+.banner1 {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.footer {
+  display: flex;
+  background-color: rgb(195, 176, 151);
+  height: 200px;
+}
+.box5 {
+  display: flex;
+  height: 200px;
+  margin-bottom: 50px;
+}
+.box6 {
+  height: 50px;
+  width: 25%;
+  display: flex;
+  margin-top: 80px;
+  text-align: left;
+}
+.box7 {
+  display: flex;
+  list-style: none;
+  margin-top: 80px;
+  width: 25%;
+  margin-left: 130px;
+}
+.box8 {
+  justify-content: right;
+  margin-top: 80px;
+  width: 25%;
+}
+p {
+  font-size: 25px;
+}
